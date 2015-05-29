@@ -1,0 +1,1 @@
+Invoke-Pester -Script c:\vagrant\Provision.Tests.ps1
